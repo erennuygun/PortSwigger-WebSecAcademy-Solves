@@ -8,7 +8,7 @@ Sayfamıza girdiğimiz zaman karşımıza çıkan resimlere tıkladığımız gi
 
 ## LAB 2 -[File path traversal, traversal sequences blocked with absolute path bypass](https://portswigger.net/web-security/file-path-traversal/lab-absolute-path-bypass):
 
-/etc/passwd -\&gt; yazarak dosyaya erişebilmekteyiz.
+/etc/passwd ->; yazarak dosyaya erişebilmekteyiz.
 
 ![](https://github.com/erennuygun/PortSwigger-WebSecAcademy-Solves/blob/master/Directory%20Traversal/images/lab2.png)
 
