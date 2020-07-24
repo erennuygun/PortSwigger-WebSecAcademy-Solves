@@ -38,7 +38,7 @@ Bu değeri **true** yapıp admin paneline giriş yapıyoruz ve carlos kullanıc�
 
 ![](https://github.com/erennuygun/PortSwigger-WebSecAcademy-Solves/blob/master/Access%20Control%20Vulnerabilities/images/lab4-2.png)
 
-Bu değeri yapıp isteğimiz üzerinde değiştirerek tekrar yolladığımızda admin haklarına erişim sağlıyoruz.Böylelikle **carlos** kullanıcısını silebiliyoruz.
+Bu değeri 2 yapıp isteğimiz üzerinde değiştirerek tekrar yolladığımızda admin haklarına erişim sağlıyoruz.Böylelikle **carlos** kullanıcısını silebiliyoruz.
 
 ![](https://github.com/erennuygun/PortSwigger-WebSecAcademy-Solves/blob/master/Access%20Control%20Vulnerabilities/images/lab4-3.png)
 
