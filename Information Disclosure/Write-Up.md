@@ -48,8 +48,6 @@ HTTP Metodumuzu TRACE yaptıktan sonra sunucu X-Custom-IP-Authorization headerı
 
 Bizde bu yüzden bu headerı kullanarak /admin dizinine sanki localhosttan geliyormuş gibi istek yapıyoruz.
 
-![](https://github.com/erennuygun/PortSwigger-WebSecAcademy-Solves/blob/master/Information%20Disclosure/images/lab4-4.png)
-
 Ve görüldüğü gibi başarılı bir şekilde giriş yaptık.Şimdi zalim carlosu silmenin zamanı :)
 
 ![](https://github.com/erennuygun/PortSwigger-WebSecAcademy-Solves/blob/master/Information%20Disclosure/images/lab4-5.png)
