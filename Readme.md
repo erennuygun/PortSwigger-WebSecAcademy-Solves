@@ -3,6 +3,6 @@
 ## * [Information Disclosure](https://github.com/erennuygun/PortSwigger-WebSecAcademy-Solves/blob/master/Information%20Disclosure/Write-Up.md)
 ## * [Access Control Vulnerabilities](https://github.com/erennuygun/PortSwigger-WebSecAcademy-Solves/blob/master/Access%20Control%20Vulnerabilities/Write-Up.md)
 ## * [Directory Traversal](https://github.com/erennuygun/PortSwigger-WebSecAcademy-Solves/blob/master/Directory%20Traversal/Write-Up.md)
-
+## * [Host Header Injection] (https://github.com/erennuygun/PortSwigger-WebSecAcademy-Solves/blob/master/Host%20Header%20Injection/WriteUp.md)
 
 
